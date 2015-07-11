@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="681f373dd53fc3bf22303592e7af3c4c83151723">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-f97b288be6ae688b99d91d1343eb922abfabc526.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\0.7.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69bf5d59b95eb91b9d17ddb3f0725a4ff499197e">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-3595ea9d57923bcfdc0eb991e4afe4f3e0de132b.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\exploded-aar\com.digits.sdk.android\digits\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="80a34abb5eacfeb345a0a594ef74dcd87c0adfd8">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-1d1b2ebb5c33a2f78f310f1c9e364df1d8952639.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\picasso-2.5.2-8963918fff674f6d664fb3958223896dd83517f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\exploded-aar\io.branch.sdk.android\library\1.5.5\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e340204f781621a704144dba8a1a8077ca2ebe76">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-85a42fdb3d1389b42c06d6e7fbb61ad3b89dbe1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\Desktop\Branchster-Android-master\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\android-support-v4-371a16fac09536caf30b87a47e6f37bf9cf7170b.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\1.0.5\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="770ebddfd293a627dea95938b3f8a7242a1720b9">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-f93ed58270bd5854f79c772450ebea6bbc609791.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\3.21.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0285ad8da812e92dda76ed5d0dcba05724c7911d">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-201eb586f1705533443f8b5d59f8fe267073b87b.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\gson-2.2.4-034d5e92022a31de0be339346c3a50519de90887.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb47ba58ffd67d44cd9e5cc6761cac747b4a6acf">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-1cde406ca989ec4b929d80572777e81ae24ad4d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.2\91c20388c9a45f62b5ed8fe0502bb76ff6251fc7\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-cbff64a332ab07a60caeb8a6e82db61a93b37436.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.6.1\efb0a36546aa8857ab8df358b106c1817e03cbee\retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\retrofit-1.6.1-c5098efda645ca4a64ac64744f407d21900aca9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11e935f7922727710104ad7e14375f4484b60ac8">
+        <dex dex="C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-8f340e91ec24ff25594fe651cd66f722623dd028.jar" />
+    </item>
+
+</items>

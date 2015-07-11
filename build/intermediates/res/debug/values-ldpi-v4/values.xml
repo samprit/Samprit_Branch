@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/samprit/Desktop/Branchster-Android-master/res/values-ldpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="branchster_container_height">200dp</dimen>
+    <!-- From: file:/C:/Users/samprit/Desktop/Branchster-Android-master/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.21.1/res/values-ldpi-v4/values.xml -->
+    <eat-comment/>
+    <dimen name="com_facebook_picker_divider_width">1px</dimen>
+    <!-- From: file:/C:/Users/samprit/Desktop/Branchster-Android-master/res/values-ldpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="name_font_size">24sp</dimen>
+</resources>

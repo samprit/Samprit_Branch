@@ -1,0 +1,14 @@
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\classes\debug
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-f97b288be6ae688b99d91d1343eb922abfabc526.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-3595ea9d57923bcfdc0eb991e4afe4f3e0de132b.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-cbff64a332ab07a60caeb8a6e82db61a93b37436.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-f93ed58270bd5854f79c772450ebea6bbc609791.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\retrofit-1.6.1-c5098efda645ca4a64ac64744f407d21900aca9a.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-85a42fdb3d1389b42c06d6e7fbb61ad3b89dbe1d.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\picasso-2.5.2-8963918fff674f6d664fb3958223896dd83517f6.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-1d1b2ebb5c33a2f78f310f1c9e364df1d8952639.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-8f340e91ec24ff25594fe651cd66f722623dd028.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\gson-2.2.4-034d5e92022a31de0be339346c3a50519de90887.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-1cde406ca989ec4b929d80572777e81ae24ad4d8.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\classes-201eb586f1705533443f8b5d59f8fe267073b87b.jar
+C:\Users\samprit\Desktop\Branchster-Android-master\build\intermediates\pre-dexed\debug\android-support-v4-371a16fac09536caf30b87a47e6f37bf9cf7170b.jar
